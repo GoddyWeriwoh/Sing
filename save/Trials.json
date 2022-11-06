@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Paper publication",
+    "Name": "TrialPP",
+    "Journal Name": "Journal",
+    "Journal Quartile": "Q3",
+    "Acceptance probability": "40",
+    "Revision probability": "40",
+    "Rejection probability": "40"
+  },
+  {
+    "Type": "Master studies",
+    "Name": "TrialM",
+    "Master Name": "master",
+    "ECT": "70",
+    "Credit Pass probability": "50"
+  },
+  {
+    "Type": "Budget request",
+    "Name": "TrialB",
+    "Entity Name": "Entity",
+    "Budget": "3.0E7"
+  },
+  {
+    "Type": "Doctoral thesis defense",
+    "Name": "TrialD",
+    "Study field": "field",
+    "Thesis difficulty": "5"
+  }
+]
